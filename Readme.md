@@ -1,5 +1,7 @@
 # 🧮 Calculadora em Python com Pytest
 
+[![Run pytest](https://github.com/phrafinhas/Calculado_testes/actions/workflows/python-app.yml/badge.svg)](https://github.com/phrafinhas/Calculado_testes/actions/workflows/python-app.yml)
+
 Este projeto consiste em uma **calculadora simples**, desenvolvida em Python, capaz de realizar operações matemáticas básicas. A aplicação foi criada como parte das atividades do estágio na **Compass UOL**, com o objetivo de praticar **programação orientada a objetos** e **testes automatizados com Pytest**.
 
 ---
